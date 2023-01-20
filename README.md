@@ -1,4 +1,4 @@
-<table>
+<table style="width:100%;">
   <tr>
     <th>Company</th>
     <th>Contact</th>
