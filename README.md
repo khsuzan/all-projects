@@ -1,5 +1,5 @@
 #### My Recent Projects That I worked
-|  S. | Screenshot  | Description| Used Toolls  |
+|  S. | Screenshot  | Description| Used Tools  |
 | ------------ |:------------:|------------|:-------------:|
 | 1  | <img src="/assets/islamialibrary.jpg" width="150px"/>  |  __ISLAMIA LIBRARY__<br/>Ebook App<br/><br/> [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.islamialibrary.islamicapp)  | ![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin&theme=light) |
 | 2  |<img src="/assets/dreamring.jpg" width="150px"/>   | __DREAMRING (Beta)__ <br/>Meditation App<br/><br/>[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.app.dreamring) |![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin&theme=light) |
